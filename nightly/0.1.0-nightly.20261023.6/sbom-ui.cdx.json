@@ -1,10 +1,10 @@
 {
   "bomFormat": "CycloneDX",
   "specVersion": "1.5",
-  "serialNumber": "urn:uuid:5e7be353-78ed-4378-a7e8-6ac9dfde6105",
+  "serialNumber": "urn:uuid:f798b9c3-5865-4dd3-a018-944b37b571e3",
   "version": 1,
   "metadata": {
-    "timestamp": "2026-10-23T03:08:00.154Z",
+    "timestamp": "2026-10-23T04:18:14.211Z",
     "component": {
       "type": "application",
       "name": "rocketpaste-ui",
@@ -49,38 +49,10 @@
     },
     {
       "type": "library",
-      "name": "framer-motion",
-      "version": "14.6.0",
-      "purl": "pkg:npm/framer-motion@14.6.0",
-      "bom-ref": "pkg:npm/framer-motion@14.6.0"
-    },
-    {
-      "type": "library",
       "name": "lucide-react",
       "version": "1.61.0",
       "purl": "pkg:npm/lucide-react@1.61.0",
       "bom-ref": "pkg:npm/lucide-react@1.61.0"
-    },
-    {
-      "type": "library",
-      "name": "motion-dom",
-      "version": "14.6.0",
-      "purl": "pkg:npm/motion-dom@14.6.0",
-      "bom-ref": "pkg:npm/motion-dom@14.6.0"
-    },
-    {
-      "type": "library",
-      "name": "motion-utils",
-      "version": "14.6.0",
-      "purl": "pkg:npm/motion-utils@14.6.0",
-      "bom-ref": "pkg:npm/motion-utils@14.6.0"
-    },
-    {
-      "type": "library",
-      "name": "motion",
-      "version": "14.6.0",
-      "purl": "pkg:npm/motion@14.6.0",
-      "bom-ref": "pkg:npm/motion@14.6.0"
     },
     {
       "type": "library",
@@ -102,13 +74,6 @@
       "version": "0.28.0",
       "purl": "pkg:npm/scheduler@0.28.0",
       "bom-ref": "pkg:npm/scheduler@0.28.0"
-    },
-    {
-      "type": "library",
-      "name": "tslib",
-      "version": "2.8.1",
-      "purl": "pkg:npm/tslib@2.8.1",
-      "bom-ref": "pkg:npm/tslib@2.8.1"
     },
     {
       "type": "library",
