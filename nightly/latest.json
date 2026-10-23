@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0-nightly.20261023.3",
-  "notes": "Rocket Paste 0.1.0-nightly.20261023.3 (nightly)",
-  "pub_date": "2026-10-23T03:08:00Z",
+  "version": "0.1.0-nightly.20261023.4",
+  "notes": "Rocket Paste 0.1.0-nightly.20261023.4 (nightly)",
+  "pub_date": "2026-10-23T03:32:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTalYvZGlRZC9Nek5NSU9jTjVFcjdnZGJuaFRJVzlUVmZubzgrNHBqWXZsc3pIRkhhRm52R25BSlh3M01GdFp2SjZYbThjbUMyYlhEQ0x5cUJTcGJkWFhMMzdGOHhac1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzI0ODY5CWZpbGU6Um9ja2V0IFBhc3RlXzAuMS4wLW5pZ2h0bHkuMjAyNjEwMjMuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAtbmlnaHRseS4yMDI2MTAyMy4zCjRiTjBYcHIxdGoxclFkOFRNc1lENG50b0daYXduMXA1K2xSdHVibTdUOHE5c0NDeU5NKzVPTUR5OVgrTEdmb2hOKzZsTzJmaVlVaFhzdVFqOEQrMUFnPT0K",
-      "url": "https://aleksandrmantus.github.io/rocketpaste-releases/nightly/0.1.0-nightly.20261023.3/RocketPaste_0.1.0-nightly.20261023.3_x64_UNSIGNED-DEV-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTalYvZGlRZC9NekpENTd1dE1aRjgrMXV3UjloMWZDMlVreHhyOTR5RWR6cE1MV0ZzcDgvMW9LNnVIR3h0YTEwY09TUDdkcE5BaEx5dnNKcFl4QzFFS2dLRTV1WVR1YUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzI2MzM2CWZpbGU6Um9ja2V0IFBhc3RlXzAuMS4wLW5pZ2h0bHkuMjAyNjEwMjMuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjAtbmlnaHRseS4yMDI2MTAyMy40CmdtR2FkdDVxMU9nUy93YjAxMFZ2SjBIVkt4ZmNSL0xRd3NrWHd3bHNSR3RRbVpWT1NVKzc2S21YQ0Y1dlplaWFCNHdzVkU4d0YxaHc3SmdPczVwb0FBPT0K",
+      "url": "https://aleksandrmantus.github.io/rocketpaste-releases/nightly/0.1.0-nightly.20261023.4/RocketPaste_0.1.0-nightly.20261023.4_x64_UNSIGNED-DEV-setup.exe"
     }
   }
 }
