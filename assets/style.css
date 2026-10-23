@@ -46,7 +46,7 @@ h1 { font-size: clamp(34px, 6vw, 60px); line-height: 1.05; font-weight: 600; let
 .pill { white-space: nowrap; font-size: 12.5px; font-weight: 600; line-height: 1; padding: 7px 11px; border-radius: 999px; color: var(--ink-1); background: var(--gloss); box-shadow: var(--gloss-edge); }
 
 html[lang="ru"] .en-only, html:not([lang="ru"]) .ru-only { display: none; }
-.duo { position: relative; margin-top: 44px; width: min(1040px, 100%); height: 470px; text-align: left; }
+.duo { position: relative; margin-top: 44px; width: min(1040px, 100%); height: 500px; text-align: left; }
 .duo .win { position: absolute; left: 0; top: 0; width: 640px; height: auto; border-radius: 18px; z-index: 2; box-shadow: var(--gloss-edge), var(--shadow); }
 .chat { position: absolute; right: 0; top: 52px; width: 460px; height: 380px; border-radius: 16px; padding: 16px 18px 16px 64px; display: flex; flex-direction: column; gap: 10px; font-size: 13px;
   background: var(--chat-bg); box-shadow: var(--matte-edge), var(--shadow); }
@@ -57,10 +57,11 @@ html[lang="ru"] .en-only, html:not([lang="ru"]) .ru-only { display: none; }
 .msg.out { align-self: flex-end; border-radius: 12px 12px 4px 12px; background: var(--bubble-out); }
 .msg code { font: 12px ui-monospace, "Cascadia Mono", Consolas, monospace; color: var(--t-code); }
 .msg .sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; background: #6D5DF6; vertical-align: -1px; margin-right: 6px; }
-.toast { position: absolute; right: 24px; bottom: 0; z-index: 3; padding: 9px 14px; border-radius: 999px; font-size: 13px; font-weight: 600; white-space: nowrap; color: var(--ink-1);
+.toast { position: absolute; right: 230px; transform: translateX(50%); top: 452px; z-index: 3; padding: 9px 14px; border-radius: 999px; font-size: 13px; font-weight: 600; white-space: nowrap; color: var(--ink-1);
   background: var(--gloss); box-shadow: var(--gloss-edge), 0 10px 30px rgb(0 0 0 / .25); -webkit-backdrop-filter: blur(20px); backdrop-filter: blur(20px); }
 .mono { font-family: ui-monospace, "Cascadia Mono", Consolas, monospace; font-size: 12.5px; }
-.sig { display: flex; align-items: center; gap: 7px; font-size: 13px; font-weight: 500; color: var(--ink-2); }
+.sig { display: flex; align-items: center; gap: 10px; font-size: 13px; font-weight: 500; color: var(--ink-2); }
+.sig img { display: block; height: 36px; width: auto; }
 
 .code { font-size: clamp(72px, 14vw, 120px); line-height: 1; font-weight: 600; letter-spacing: -.04em; color: transparent; background: linear-gradient(180deg, var(--ink-1), var(--ink-3)); -webkit-background-clip: text; background-clip: text; }
 .nf { font-size: clamp(26px, 4vw, 34px); margin-top: 12px; }
@@ -71,7 +72,7 @@ html[lang="ru"] .en-only, html:not([lang="ru"]) .ru-only { display: none; }
   .duo { height: auto; display: flex; flex-direction: column; align-items: center; }
   .duo .win { position: relative; width: 100%; max-width: 560px; }
   .chat { position: relative; top: auto; right: auto; width: calc(100% - 32px); max-width: 440px; height: auto; margin-top: -48px; z-index: 3; padding: 16px; }
-  .toast { position: relative; right: auto; margin-top: 12px; }
+  .toast { position: relative; right: auto; top: auto; transform: none; margin-top: 16px; }
 }
 @media (max-width: 520px) {
   .o1 { width: 60vw; height: 60vw; left: -30vw; top: -6vh; }
