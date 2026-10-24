@@ -1,10 +1,10 @@
 {
   "bomFormat": "CycloneDX",
   "specVersion": "1.5",
-  "serialNumber": "urn:uuid:a899618c-9747-4560-b8b8-f975561c7a95",
+  "serialNumber": "urn:uuid:74f51f0c-581e-4696-8b94-51bbbd6b2d09",
   "version": 1,
   "metadata": {
-    "timestamp": "2026-10-23T06:45:27.481Z",
+    "timestamp": "2026-10-24T05:55:44.647Z",
     "component": {
       "type": "application",
       "name": "rocketpaste-ui",
