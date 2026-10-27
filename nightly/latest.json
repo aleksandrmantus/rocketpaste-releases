@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0-nightly.3",
-  "notes": "Rocket Paste 0.2.0-nightly.3 (nightly)",
-  "pub_date": "2026-10-25T00:38:04Z",
+  "version": "0.2.0-nightly.4",
+  "notes": "Rocket Paste 0.2.0-nightly.4 (nightly)",
+  "pub_date": "2026-10-27T01:00:48Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNkhsQ2h5NnJmbzNlakdrR1N4eEw0RHVFVkVDQTUwTzk2bUVRMUtvbDF1am9BellZb1kzSnVxQ00rVG41d1U5Umx0MVFPYTIzV0RXK1FUUFQxRzFxYmN3TEpnS0UvTWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODgxMTM0CWZpbGU6Um9ja2V0IFBhc3RlXzAuMi4wLW5pZ2h0bHkuM194NjRfVU5TSUdORUQtREVWLXNldHVwLmV4ZQp4TVFaUmFWNDlRMnlHNnNKUkY0bVFFOGdoSS81VnFodm5sbkxlZTNKbjFBZUxWdlJoV3o5M1hFaEs3aXJNb1pDekZpSmhiRGF6NzU1bVlzdEZQK1lBQT09Cg==",
-      "url": "https://updates.rocketpaste.com/nightly/0.2.0-nightly.3/RocketPaste_0.2.0-nightly.3_x64_UNSIGNED-DEV-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNkhsQ2h5NnJmbzF6Nm1DdUsxdk9BK2tJek9uNTJXRklMdkhQYVZaM3RsVWhDWittM2g5b1NWRCtRRmF5ZVpucEpBSXM0WEZXNmlpT0NDZHJjbko4VTM2ZE5XZ0U1Z0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDYyNDA2CWZpbGU6Um9ja2V0IFBhc3RlXzAuMi4wLW5pZ2h0bHkuNF94NjRfVU5TSUdORUQtREVWLXNldHVwLmV4ZQpBYlZIMFl2QmlnZ2pUQ1Z1QzlwelMzTnJ1SWdTdnZPQlE4S3BLRlZNNko5NDFsYVJxbFMvTHFta2lsc0VyRFJubUcxSFdNUTRUUUhNTVo1WGw5amFBUT09Cg==",
+      "url": "https://updates.rocketpaste.com/nightly/0.2.0-nightly.4/RocketPaste_0.2.0-nightly.4_x64_UNSIGNED-DEV-setup.exe"
     }
   }
 }
